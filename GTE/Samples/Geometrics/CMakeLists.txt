@@ -4,9 +4,9 @@ if(COMMAND cmake_policy)
 endif()
 
 set(GTE_VERSION_MAJOR 8)
-set(GTE_VERSION_MINOR 1)
+set(GTE_VERSION_MINOR 2)
 
-cmake_minimum_required(VERSION 3.8)
+cmake_minimum_required(VERSION 3.10)
 
 project(Geometrics VERSION ${GTE_VERSION_MAJOR}.${GTE_VERSION_MINOR})
 

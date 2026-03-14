@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.8)
+cmake_minimum_required(VERSION 3.10)
 
 project(gtgraphics VERSION ${GTE_VERSION_MAJOR}.${GTE_VERSION_MINOR})
 
